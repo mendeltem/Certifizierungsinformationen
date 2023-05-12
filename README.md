@@ -2,7 +2,7 @@
 # Zertifizierungsstellen 
 Die Top Zertifizierungsstellen um für wietere erfolgreiche Berufflichen tätigkeiten auszuführen.
 
-![Image 15](image.jpg)
+![Image 15](image_2.jpg)
 
 # Liste der Berufszertifizierungen
 
