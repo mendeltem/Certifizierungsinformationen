@@ -1,5 +1,9 @@
+
 # Certifizierungsinformationen
 Die Top Zertifizierungsstellen um für wietere erfolgreiche Berufflichen tätigkeiten auszuführen.
+
+
+![Image 15](image.jpg)
 
 
 # Liste der Berufszertifizierungen
